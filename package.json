@@ -1,0 +1,13 @@
+{
+  "name": "blendid-bootstrap",
+  "version": "0.1.0",
+  "description": "Blendid bootstrap base application",
+  "author": "dataday",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.1.1",
+    "bootstrap": "4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "material-icons": "^0.1.0"
+  }
+}
